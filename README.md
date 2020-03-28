@@ -1,6 +1,6 @@
 # react-component-boilerplate
 
-> My usable node module boilerplate
+> My usable React component
 
 # Install
 
